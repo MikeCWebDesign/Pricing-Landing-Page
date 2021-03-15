@@ -1,0 +1,26 @@
+.opq1{
+    background: rgba(0, 0, 0, 1);
+  }
+
+.fnt{
+    color: white;
+    font-family: 'Domine', sans-serif;
+  }
+
+.fnt1{
+  font-family: 'Antic Slab', sans-serif;
+  font-style: italic;
+  color: white;
+}
+
+.bgcardgrn{
+  background-color:  #00FF00;
+}
+
+.mrgleft{
+  margin-right: 150px !important;
+}
+
+.mrgright{
+  margin-right: 300px !important;
+}
